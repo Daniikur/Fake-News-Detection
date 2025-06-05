@@ -29,9 +29,11 @@ This project focuses on detecting fake news articles using natural language proc
    ```bash
    git clone https://github.com/Daniikur/Fake-News-Detection.git
    cd fake-news-detector
+
 **Run the app:**
 ```bash
 streamlit run app.py
+
 
 🌐 **Live Demo**  
 [Fake News Detector Web App](https://fake-news-detector3.streamlit.app/)
