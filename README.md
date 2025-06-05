@@ -21,7 +21,14 @@ This project focuses on detecting fake news articles using natural language proc
 - Pandas, NumPy  
 - Scikit-learn  
 - Re, String  
-- Streamlit  
+- Streamlit
+
+  🌐 **Live Demo**  
+[Fake News Detector Web App](https://fake-news-detector3.streamlit.app/)
+
+🔗 **GitHub Repository**  
+[Fake News Detection on GitHub](https://github.com/Daniikur/Fake-News-Detection)
+
 
 🛠️ **How to Run Locally**
 
@@ -35,11 +42,6 @@ This project focuses on detecting fake news articles using natural language proc
 streamlit run app.py
 
 
-🌐 **Live Demo**  
-[Fake News Detector Web App](https://fake-news-detector3.streamlit.app/)
-
-🔗 **GitHub Repository**  
-[Fake News Detection on GitHub](https://github.com/Daniikur/Fake-News-Detection)
 
 
 
